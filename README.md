@@ -2,11 +2,11 @@
 
 [API integrated from](https://www.themoviedb.org/)
 
-![Home Page](/src/screenshots/Screenshot3.png?raw=true "Optional Title")
-![Home Page](/src/screenshots/Screenshot1.png?raw=true "Optional Title")
-![Netflix Originals](/src/screenshots/Screenshot2.png?raw=true "Optional Title")
-![Trending](/src/screenshots/Screenshot2.png?raw=true "Optional Title")
-![Action Movies](/src/screenshots/Screenshot2.png?raw=true "Optional Title")
+![Home Page](/src/screenshots/Screenshot33.png?raw=true "Optional Title")
+![Home Page](/src/screenshots/Screenshot11.png?raw=true "Optional Title")
+![Netflix Originals](/src/screenshots/Screenshot22.png?raw=true "Optional Title")
+![Trending](/src/screenshots/Screenshot44.png?raw=true "Optional Title")
+![Action Movies](/src/screenshots/Screenshot55.png?raw=true "Optional Title")
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
