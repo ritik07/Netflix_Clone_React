@@ -2,16 +2,19 @@
 
 [API integrated from](https://www.themoviedb.org/)
 
+## Screenshots
+
 Home Page
 ![Home Page](/src/screenshots/Screenshot33.png?raw=true "Optional Title")
-Home Page
-![Home Page](/src/screenshots/Screenshot11.png?raw=true "Optional Title")
 Netflix Originals
 ![Netflix Originals](/src/screenshots/Screenshot22.png?raw=true "Optional Title")
+Home Page
+![Home Page](/src/screenshots/Screenshot11.png?raw=true "Optional Title")
 Trending
 ![Trending](/src/screenshots/Screenshot44.png?raw=true "Optional Title")
-Action Movies
-![Action Movies](/src/screenshots/Screenshot55.png?raw=true "Optional Title")
+
+<!-- Action Movies
+![Action Movies](/src/screenshots/Screenshot55.png?raw=true "Optional Title") -->
 
 Don't forget to leave a star if you like the project.
 
